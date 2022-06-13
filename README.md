@@ -12,4 +12,4 @@ This project can run on 6 platforms
 - MacOs
 
 ## screen shot
-<a href="#"><img src="https://i.ibb.co/BqqB8MK/Screenshot-2022-06-13-151211.jpg" alt="Screenshot-2022-06-13-151211" border="0.5"></a>
+<a href="#"><img width=250 src="https://i.ibb.co/BqqB8MK/Screenshot-2022-06-13-151211.jpg" alt="Screenshot-2022-06-13-151211" border="0.5"></a>

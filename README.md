@@ -7,6 +7,7 @@ A simple Calculator app.
 This project can run on 6 platforms
 - Android
 - ios
+- web
 - Windows
 - Linux
 - MacOs
